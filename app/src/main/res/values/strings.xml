@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ListView y ActionBar</string>
+    <string name="anyadir">Añadir</string>
+    <string name="restablecer">Restablecer</string>
+    <string name="acercade">Acerca de...</string>
+    <string name="acerca_toast">Ejemplo de ListView y ActionBar</string>
+</resources>
